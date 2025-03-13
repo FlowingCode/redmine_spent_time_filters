@@ -1,0 +1,4 @@
+# English strings go here for Rails i18n
+en:
+  field_spent_time_last_month: "Spent Time Last Month"
+  field_spent_time_this_month: "Spent Time This Month"
