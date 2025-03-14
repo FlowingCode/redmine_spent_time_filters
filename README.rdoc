@@ -1,3 +1,0 @@
-= redmine_spent_time_filters
-
-Adds support for filtering issues based on spent time loading date
